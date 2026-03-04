@@ -1,7 +1,5 @@
 <div style="text-align: center; margin-bottom: 1em;">
-
-![QR Code](assets/qr.png)
-
+<img src="assets/qr.png" alt="QR Code" />
 </div>
 
 <h1 style="color: #4338ca; text-align: center;">Coder Dojo</h1>
