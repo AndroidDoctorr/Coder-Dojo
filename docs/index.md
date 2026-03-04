@@ -25,35 +25,25 @@ Wednesdays 2:15–4:15
 If you want to continue learning to code on your own (or with your parents' help, or a mentor, or your favorite LLM), you can pick one of these "bonus tracks" to follow:
 
 <div style="background: #dc2626; color: white; border-radius: 8px; padding: 0.75em 1em; margin: 0.5em 0;">
-
-**[🎮 Gaming Track](./gaming-track.md)** — Learn how to make and publish games using Godot
-
+<strong><a href="./gaming-track.html" style="color: white;">🎮 Gaming Track</a></strong> — Learn how to make and publish games using Godot
 </div>
 
 <div style="background: #7c3aed; color: white; border-radius: 8px; padding: 0.75em 1em; margin: 0.5em 0;">
-
-**[📊 Data Track](./data-track.md)** — Learn how to manage databases using SQL
-
+<strong><a href="./data-track.html" style="color: white;">📊 Data Track</a></strong> — Learn how to manage databases using SQL
 </div>
 
 <div style="background: #16a34a; color: white; border-radius: 8px; padding: 0.75em 1em; margin: 0.5em 0;">
-
-**[🤖 Robot Track](./robot-track.md)** — Learn how to control machines with code
-
+<strong><a href="./robot-track.html" style="color: white;">🤖 Robot Track</a></strong> — Learn how to control machines with code
 </div>
 
 <div style="background: #2563eb; color: white; border-radius: 8px; padding: 0.75em 1em; margin: 0.5em 0;">
-
-**[🌐 Web Track](./web-track.md)** — Learn how to publish websites to the Web
-
+<strong><a href="./web-track.html" style="color: white;">🌐 Web Track</a></strong> — Learn how to publish websites to the Web
 </div>
 
 Not sure where to start? Read the **[Bonus Track Guide](./bonus-tracks.md)** first.
 
 <div style="background: #fffbeb; border: 1px solid #fcd34d; border-radius: 6px; padding: 0.75em 1em; margin-top: 1em;">
-
-🪙 Complete any track to earn a **Challenge Coin**. Collect all four and you'll earn an extra **Gold Challenge Coin**!
-
+🪙 Complete any track to earn a <strong>Challenge Coin</strong>. Collect all four and you'll earn an extra <strong>Gold Challenge Coin</strong>!
 </div>
 
 ---
