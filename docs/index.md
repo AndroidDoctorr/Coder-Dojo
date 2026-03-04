@@ -1,3 +1,5 @@
+![QR Code](assets/qr.png)
+
 # Coder Dojo
 
 **Coding Resources** — This is a living document, I will update it periodically with new links and whatnot.
@@ -14,12 +16,12 @@ Wednesdays 2:15–4:15
 
 If you want to continue learning to code on your own (or with your parents' help, or a mentor, or your favorite LLM), you can pick one of these "bonus tracks" to follow:
 
-- [**Games**](./games-track.md) — Learn how to make and publish games using Godot
+- [**Games**](./gaming-track.md) — Learn how to make and publish games using Godot
 - [**Data**](./data-track.md) — Learn how to manage databases using SQL
 - [**Robot**](./robot-track.md) — Learn how to control machines with code
 - [**Web**](./web-track.md) — Learn how to publish websites to the Web
 
-But start here: [**Bonus Track Guide**](./bonus_tracks.md)
+But start here: [**Bonus Track Guide**](./bonus-tracks.md)
 
 If you complete any of these tracks, you will earn an extra Challenge Coin on top of the one you get for completing the Dojo. If you collect all four coins, you'll get an extra Gold Challenge Coin!
 
