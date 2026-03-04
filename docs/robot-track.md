@@ -1,4 +1,6 @@
-# Robot Track
+<h1 style="color: #16a34a;">Robot Track</h1>
+
+<div style="background: #f0fdf4; border-left: 4px solid #16a34a; padding: 1em 1.25em; border-radius: 0 6px 6px 0; margin-bottom: 1.5em;">
 
 Welcome to the **Robot Track**.
 
@@ -8,9 +10,11 @@ Instead of only making things happen on a screen, you will make code control **L
 
 If you like building, testing, wiring, or making physical things react, this track is probably for you.
 
+</div>
+
 ---
 
-## What you will do in this track
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">What you will do in this track</h2>
 
 In this track, you will:
 - learn basic physical computing ideas
@@ -25,7 +29,7 @@ You do need to show that your code can make a real circuit do something useful.
 
 ---
 
-## What counts as progress?
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">What counts as progress?</h2>
 
 Progress in this track should happen in **small steps**.
 
@@ -44,7 +48,7 @@ Each level has:
 
 ---
 
-## What is physical computing?
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">What is physical computing?</h2>
 
 **Physical computing** means writing code that affects things in the real world.
 
@@ -62,7 +66,7 @@ That may sound complicated, but the version you will do here starts small and st
 
 ---
 
-## Safety and setup
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">Safety and setup</h2>
 
 Before you start, remember these rules:
 - turn things off before changing wires if you are not sure what you are doing
@@ -81,7 +85,7 @@ That is normal.
 
 ---
 
-## Bronze Level
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">Bronze Level</h2>
 
 ### Goal
 Build a simple circuit and make Python control it.
@@ -134,6 +138,8 @@ Pick at least **one**:
 - a night light that stays on for a set amount of time
 - a simple pattern using two LEDs
 
+<div style="background: #f0fdf4; border: 1px solid #86efac; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Bronze sign-off
 - Student name: __________________________
 - Milestone: Bronze Robot Track
@@ -142,9 +148,11 @@ Pick at least **one**:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Silver Level
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">Silver Level</h2>
 
 ### Goal
 Make your project react to input or control more than one output.
@@ -198,6 +206,8 @@ Pick at least **one**:
 - stoplight with a pedestrian button
 - guessing game with LEDs and input
 
+<div style="background: #f0fdf4; border: 1px solid #86efac; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Silver sign-off
 - Student name: __________________________
 - Milestone: Silver Robot Track
@@ -206,9 +216,11 @@ Pick at least **one**:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Gold Level
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">Gold Level</h2>
 
 ### Goal
 Build a stronger physical project that combines code, input, and output in a clear way.
@@ -257,6 +269,8 @@ Better version:
 - Build a traffic light that changes based on input.
 - Build your own small breadboard gadget with a clear purpose.
 
+<div style="background: #f0fdf4; border: 1px solid #86efac; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Gold sign-off
 - Student name: __________________________
 - Milestone: Gold Robot Track
@@ -265,9 +279,11 @@ Better version:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Final Robot Track approval
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">Final Robot Track approval</h2>
 
 To complete the full **Robot Track**, you should be able to show all of these:
 
@@ -289,6 +305,8 @@ A teacher or mentor may ask questions like:
 You do **not** need to explain everything perfectly.
 You do need to show that the project is really yours and that you understand the main parts.
 
+<div style="background: #f0fdf4; border: 1px solid #86efac; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Final approval sign-off
 - Student name: __________________________
 - Track: Robot
@@ -297,9 +315,11 @@ You do need to show that the project is really yours and that you understand the
 - Approved for completion: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Helpful resources
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">Helpful resources</h2>
 
 ### Beginner Raspberry Pi and physical computing
 - [Raspberry Pi Projects](https://projects.raspberrypi.org/en/pathways/physical-computing)
@@ -326,7 +346,7 @@ If those files exist, use them to help you get started, then change them and mak
 
 ---
 
-## If you get stuck
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">If you get stuck</h2>
 
 That will happen. Hardware does that because it enjoys causing drama.
 
@@ -343,7 +363,7 @@ That makes bugs much easier to find.
 
 ---
 
-## What next?
+<h2 style="color: #16a34a; border-bottom: 2px solid #86efac; padding-bottom: 0.25em;">What next?</h2>
 
 If you finish this track and want more, you could try:
 - adding buzzers or sensors

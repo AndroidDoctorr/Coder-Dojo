@@ -1,4 +1,6 @@
-# Gaming Track
+<h1 style="color: #dc2626;">Gaming Track</h1>
+
+<div style="background: #fff1f2; border-left: 4px solid #dc2626; padding: 1em 1.25em; border-radius: 0 6px 6px 0; margin-bottom: 1.5em;">
 
 Welcome to the **Gaming Track**.
 
@@ -8,9 +10,11 @@ You will use **Godot** to make small playable games step by step. Along the way,
 
 If you like games, game ideas, animation, characters, levels, or figuring out how game rules work, this track is probably for you.
 
+</div>
+
 ---
 
-## What you will do in this track
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">What you will do in this track</h2>
 
 In this track, you will:
 - learn the basic parts of a game project
@@ -26,7 +30,7 @@ You do need to make something real, playable, and understandable.
 
 ---
 
-## What counts as progress?
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">What counts as progress?</h2>
 
 Progress in this track should happen in **small steps**.
 
@@ -45,7 +49,7 @@ Each level has:
 
 ---
 
-## Why Godot?
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">Why Godot?</h2>
 
 This track uses **Godot**.
 
@@ -61,7 +65,7 @@ That means the goal is not just to click around randomly until something sort of
 
 ---
 
-## Setup and good habits
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">Setup and good habits</h2>
 
 Some parts of this track may need help from a parent, teacher, or mentor, especially:
 - installing Godot
@@ -81,7 +85,7 @@ Good habits for this track:
 
 ---
 
-## Bronze Level
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">Bronze Level</h2>
 
 ### Goal
 Make a simple playable scene where the player can control something on the screen.
@@ -118,6 +122,8 @@ Pick at least **one**:
 - make a simple maze with walls
 - build a little scene where a character can walk around and explore
 
+<div style="background: #fff1f2; border: 1px solid #fca5a5; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Bronze sign-off
 - Student name: __________________________
 - Milestone: Bronze Gaming Track
@@ -126,9 +132,11 @@ Pick at least **one**:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Silver Level
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">Silver Level</h2>
 
 ### Goal
 Turn your project into an actual game with rules, hazards, or goals.
@@ -164,6 +172,8 @@ Pick at least **one**:
 - escape a maze
 - click or tap the right targets before time runs out
 
+<div style="background: #fff1f2; border: 1px solid #fca5a5; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Silver sign-off
 - Student name: __________________________
 - Milestone: Silver Gaming Track
@@ -172,9 +182,11 @@ Pick at least **one**:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Gold Level
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">Gold Level</h2>
 
 ### Goal
 Build a stronger game that feels complete enough for another person to play and understand.
@@ -226,6 +238,8 @@ Better version:
 - Defeat a simple enemy or survive waves.
 - Build your own small game idea with clear rules.
 
+<div style="background: #fff1f2; border: 1px solid #fca5a5; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Gold sign-off
 - Student name: __________________________
 - Milestone: Gold Gaming Track
@@ -234,9 +248,11 @@ Better version:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Final completion
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">Final completion</h2>
 
 To complete the **Gaming Track**, you should be able to show all of these:
 
@@ -248,6 +264,8 @@ To complete the **Gaming Track**, you should be able to show all of these:
 - [ ] I can point to part of the code or project setup that makes the game work.
 - [ ] I showed my final project to a teacher or mentor.
 
+<div style="background: #fff1f2; border: 1px solid #fca5a5; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Final approval
 - Student name: __________________________
 - Track: Gaming
@@ -256,9 +274,11 @@ To complete the **Gaming Track**, you should be able to show all of these:
 - Approved for completion: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Resources
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">Resources</h2>
 
 Use these as tools, not as magic spells.
 
@@ -288,7 +308,7 @@ That part can grow later.
 
 ---
 
-## If you get stuck
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">If you get stuck</h2>
 
 If your game is not working, try this:
 - check one scene at a time
@@ -302,7 +322,7 @@ Sometimes the bug is not mysterious. Sometimes one box is unchecked or one objec
 
 ---
 
-## What comes after this?
+<h2 style="color: #dc2626; border-bottom: 2px solid #fca5a5; padding-bottom: 0.25em;">What comes after this?</h2>
 
 If you finish this track, you could try:
 - adding sound and music

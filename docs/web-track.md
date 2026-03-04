@@ -1,4 +1,6 @@
-# Web Track
+<h1 style="color: #2563eb;">Web Track</h1>
+
+<div style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 1em 1.25em; border-radius: 0 6px 6px 0; margin-bottom: 1.5em;">
 
 Welcome to the **Web Track**.
 
@@ -8,9 +10,11 @@ You will start with **HTML**, **CSS**, and **JavaScript**. Later, if you are rea
 
 If you like websites, design, buttons, colors, interactivity, or making things you can share online, this track is probably for you.
 
+</div>
+
 ---
 
-## What you will do in this track
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">What you will do in this track</h2>
 
 In this track, you will:
 - build simple web pages
@@ -26,7 +30,7 @@ You do need to build something real that works, and you should be able to explai
 
 ---
 
-## What counts as progress?
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">What counts as progress?</h2>
 
 Progress in this track should happen in **small steps**.
 
@@ -45,7 +49,7 @@ Each level has:
 
 ---
 
-## What are HTML, CSS, and JavaScript?
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">What are HTML, CSS, and JavaScript?</h2>
 
 These three tools work together:
 
@@ -74,7 +78,7 @@ A good way to think about it:
 
 ---
 
-## Setup and good habits
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">Setup and good habits</h2>
 
 Some parts of this track may need help from a parent, teacher, or mentor, especially:
 - creating a GitHub account
@@ -103,7 +107,7 @@ If your project gets bigger later, you can add folders for images, sounds, or ex
 
 ---
 
-## Bronze Level
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">Bronze Level</h2>
 
 ### Goal
 Build a basic webpage that has real content and real styling.
@@ -143,6 +147,8 @@ Pick at least **one**:
 - a page about your pet, family, or hobbies
 - a fake fan page for something you like
 
+<div style="background: #eff6ff; border: 1px solid #93c5fd; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Bronze sign-off
 - Student name: __________________________
 - Milestone: Bronze Web Track
@@ -151,9 +157,11 @@ Pick at least **one**:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Silver Level
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">Silver Level</h2>
 
 ### Goal
 Add JavaScript so your webpage reacts to what the user does.
@@ -192,6 +200,8 @@ Pick at least **one**:
 - a simple calculator
 - a page that changes text or images when you click buttons
 
+<div style="background: #eff6ff; border: 1px solid #93c5fd; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Silver sign-off
 - Student name: __________________________
 - Milestone: Silver Web Track
@@ -200,9 +210,11 @@ Pick at least **one**:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Gold Level
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">Gold Level</h2>
 
 ### Goal
 Build a stronger website or simple web app that feels complete and organized.
@@ -255,6 +267,8 @@ Better version:
 - a simple web app that keeps track of something
 - your own project idea with clear interaction
 
+<div style="background: #eff6ff; border: 1px solid #93c5fd; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Gold sign-off
 - Student name: __________________________
 - Milestone: Gold Web Track
@@ -263,9 +277,11 @@ Better version:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Advanced path: Node and React
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">Advanced path: Node and React</h2>
 
 This part is **optional** and more advanced.
 
@@ -299,7 +315,7 @@ This is a bonus layer, not the main requirement.
 
 ---
 
-## Final completion
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">Final completion</h2>
 
 To complete the **Web Track**, you should be able to show all of these:
 
@@ -317,6 +333,8 @@ If you want an extra challenge, you can also:
 
 That is optional, but it is a strong extra step.
 
+<div style="background: #eff6ff; border: 1px solid #93c5fd; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Final approval
 - Student name: __________________________
 - Track: Web
@@ -325,9 +343,11 @@ That is optional, but it is a strong extra step.
 - Approved for completion: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Resources
+<h2 style="color: #2563eb; border-bottom: 2px solid #93c5fd; padding-bottom: 0.25em;">Resources</h2>
 
 ### Beginner web learning
 - [MDN Web Docs - Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn_web_development)

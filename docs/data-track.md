@@ -1,4 +1,6 @@
-# Data Track
+<h1 style="color: #7c3aed;">Data Track</h1>
+
+<div style="background: #f5f3ff; border-left: 4px solid #7c3aed; padding: 1em 1.25em; border-radius: 0 6px 6px 0; margin-bottom: 1.5em;">
 
 Welcome to the **Data Track**.
 
@@ -8,9 +10,11 @@ You will learn how tables work, how to look up information, how to filter result
 
 If you like mysteries, patterns, sorting things, or finding answers, this track is probably for you.
 
+</div>
+
 ---
 
-## What you will do in this track
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">What you will do in this track</h2>
 
 In this track, you will:
 - learn what a database is
@@ -25,7 +29,7 @@ You do need to show that you can use data to answer real questions.
 
 ---
 
-## What counts as progress?
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">What counts as progress?</h2>
 
 Progress in this track should happen in **small steps**.
 
@@ -44,7 +48,7 @@ Each level has:
 
 ---
 
-## What is SQL?
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">What is SQL?</h2>
 
 **SQL** stands for **Structured Query Language**.
 
@@ -71,7 +75,7 @@ SQL helps you answer questions like that.
 
 ---
 
-## Bronze Level
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">Bronze Level</h2>
 
 ### Goal
 Learn the basic parts of a database and write your first simple SQL queries.
@@ -124,6 +128,8 @@ Pick at least **one**:
 - make queries about books or movies
 - use a starter database from the repo
 
+<div style="background: #f5f3ff; border: 1px solid #c4b5fd; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Bronze sign-off
 - Student name: __________________________
 - Milestone: Bronze Data Track
@@ -132,9 +138,11 @@ Pick at least **one**:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Silver Level
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">Silver Level</h2>
 
 ### Goal
 Use SQL to answer better questions, sort results, count things, and solve a real mystery.
@@ -196,6 +204,8 @@ Pick at least **one** in addition to the mystery:
 - search a table for matching clues
 - answer 5 data questions from a starter database
 
+<div style="background: #f5f3ff; border: 1px solid #c4b5fd; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Silver sign-off
 - Student name: __________________________
 - Milestone: Silver Data Track
@@ -204,9 +214,11 @@ Pick at least **one** in addition to the mystery:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Gold Level
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">Gold Level</h2>
 
 ### Goal
 Make your own small database project and show that you can use SQL on something you understand.
@@ -256,6 +268,8 @@ Better version:
 - "Which dinosaurs are herbivores?"
 - "Which books were published before 2000?"
 
+<div style="background: #f5f3ff; border: 1px solid #c4b5fd; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 ### Gold sign-off
 - Student name: __________________________
 - Milestone: Gold Data Track
@@ -264,9 +278,11 @@ Better version:
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 ---
 
-## Final completion requirements
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">Final completion requirements</h2>
 
 To complete the **Data Track**, you must finish **all** of these:
 
@@ -279,9 +295,21 @@ To complete the **Data Track**, you must finish **all** of these:
 
 If you did all of that, then you did not just "mess around with SQL a little." You actually completed the track.
 
+<div style="background: #f5f3ff; border: 1px solid #c4b5fd; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
+### Final approval
+- Student name: __________________________
+- Final project name: ____________________
+- Teacher / Mentor: ______________________
+- Date: __________________________________
+- Approved for Data Track completion: Yes / No
+- Notes: _________________________________
+
+</div>
+
 ---
 
-## Helpful tools and resources
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">Helpful tools and resources</h2>
 
 ### Start here
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
@@ -302,7 +330,7 @@ Do not skip the main SQL work just to jump to the shiny buzzword part.
 
 ---
 
-## Files and starter projects in the repo
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">Files and starter projects in the repo</h2>
 
 The repo may include things like:
 - starter databases
@@ -325,32 +353,7 @@ Example:
 
 ---
 
-## Simple sign-off form
-
-Use this if you need a generic sign-off:
-
-- Student name: __________________________
-- Track: Data
-- Milestone or project: __________________
-- Teacher / Mentor: ______________________
-- Date: __________________________________
-- Approved: Yes / No
-- Notes: _________________________________
-
----
-
-## Final approval
-
-- Student name: __________________________
-- Final project name: ____________________
-- Teacher / Mentor: ______________________
-- Date: __________________________________
-- Approved for Data Track completion: Yes / No
-- Notes: _________________________________
-
----
-
-## What to do after this track
+<h2 style="color: #7c3aed; border-bottom: 2px solid #c4b5fd; padding-bottom: 0.25em;">What to do after this track</h2>
 
 If you finish the Data Track, good next choices are:
 - **Web Track** if you want to show data on a webpage later
