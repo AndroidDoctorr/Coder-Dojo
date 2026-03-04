@@ -1,4 +1,6 @@
-# Coder Dojo Bonus Tracks
+<h1 style="color: #b45309;">Coder Dojo Bonus Tracks</h1>
+
+<div style="background: #fffbeb; border-left: 4px solid #b45309; padding: 1em 1.25em; border-radius: 0 6px 6px 0; margin-bottom: 1.5em;">
 
 Welcome to the **Coder Dojo Bonus Tracks**.
 
@@ -6,18 +8,20 @@ These tracks are extra paths you can follow outside the main Dojo lessons. Each 
 
 You do **not** finish a track just by reading about it. You finish a track by **making something, testing it, fixing problems, and showing your work**.
 
+</div>
+
 ---
 
-## What are the Bonus Tracks?
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">What are the Bonus Tracks?</h2>
 
 There are four Bonus Tracks:
 
 | Track | What you learn | What you might build |
 |---|---|---|
-| **Data** | How to ask questions with data using SQL | A solved mystery, a small database, and useful queries |
-| **Robot** | How Python can control real hardware | LED projects, buttons, alarms, and breadboard gadgets |
-| **Web** | How websites and web apps work | Interactive web pages and a published site |
-| **Gaming** | How video games are built | A small playable game made in Godot |
+| **[Data](data-track.md)** | How to ask questions with data using SQL | A solved mystery, a small database, and useful queries |
+| **[Robot](robot-track.md)** | How Python can control real hardware | LED projects, buttons, alarms, and breadboard gadgets |
+| **[Web](web-track.md)** | How websites and web apps work | Interactive web pages and a published site |
+| **[Gaming](gaming-track.md)** | How video games are built | A small playable game made in Godot |
 
 Each track has its own page with:
 - clear goals
@@ -28,7 +32,7 @@ Each track has its own page with:
 
 ---
 
-## How to use these pages
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">How to use these pages</h2>
 
 1. Start at the **main Dojo page**.
 2. Open the Bonus Track page you want.
@@ -41,15 +45,15 @@ Some parts are easy to do on your own. Some parts may need help from a parent, t
 
 ---
 
-## How progress works
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">How progress works</h2>
 
 Each track is built around **small wins**, not just one giant final project.
 
 Most tracks will include three levels:
 
-- **Bronze** - Learn the basics and finish your first small working project.
-- **Silver** - Combine ideas and build something more interactive.
-- **Gold** - Finish a stronger project that feels complete and that you can explain.
+- **Bronze** — Learn the basics and finish your first small working project.
+- **Silver** — Combine ideas and build something more interactive.
+- **Gold** — Finish a stronger project that feels complete and that you can explain.
 
 Each level should give you a chance to:
 - learn a new idea
@@ -60,7 +64,7 @@ At the end of the track, there will still be a bigger final project or final che
 
 ---
 
-## What counts as real progress?
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">What counts as real progress?</h2>
 
 These things **do count**:
 - writing code yourself
@@ -80,7 +84,7 @@ Using tutorials is fine. Real programmers use examples all the time. What matter
 
 ---
 
-## Teacher or mentor sign-off
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">Teacher or mentor sign-off</h2>
 
 The sign-off system is meant to be simple.
 
@@ -98,6 +102,8 @@ A sign-off might be used for:
 
 For now, keep sign-off simple and generic.
 
+<div style="background: #fffbeb; border: 1px solid #fcd34d; border-radius: 6px; padding: 1em 1.25em; margin-top: 0.5em;">
+
 **Example sign-off format:**
 
 - Student name: __________________________
@@ -108,11 +114,13 @@ For now, keep sign-off simple and generic.
 - Approved: Yes / No
 - Notes: _________________________________
 
+</div>
+
 Later, this can be turned into a better printed form or a digital form.
 
 ---
 
-## How coins are awarded
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">How coins are awarded</h2>
 
 Coins are meant to celebrate **real completed work**.
 
@@ -132,7 +140,7 @@ That is not meant to be harsh. It just keeps the system fair.
 
 ---
 
-## Where to find things in the repo
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">Where to find things in the repo</h2>
 
 This Bonus Track guide and the other track pages live in the **Coder Dojo GitHub repo**.
 
@@ -153,15 +161,15 @@ If a track page links to sample code, download or copy the files from the repo a
 
 ---
 
-## Choosing a track
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">Choosing a track</h2>
 
 Pick the track that sounds the most fun to you.
 
 Here is the honest version:
-- If you like solving puzzles and asking questions, start with **Data**.
-- If you like lights, buttons, and real physical projects, start with **Robot**.
-- If you like making websites and apps, start with **Web**.
-- If you like video games and game design, start with **Gaming**.
+- If you like solving puzzles and asking questions, start with **[Data](data-track.md)**.
+- If you like lights, buttons, and real physical projects, start with **[Robot](robot-track.md)**.
+- If you like making websites and apps, start with **[Web](web-track.md)**.
+- If you like video games and game design, start with **[Gaming](gaming-track.md)**.
 
 You do **not** have to do all four tracks.
 
@@ -169,7 +177,7 @@ It is better to finish one track well than to half-finish four of them and end u
 
 ---
 
-## Good habits for every track
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">Good habits for every track</h2>
 
 No matter which track you choose, these habits matter:
 
@@ -185,7 +193,7 @@ That last one is not weakness. That is just avoiding unnecessary suffering.
 
 ---
 
-## Notes for parents and teachers
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">Notes for parents and teachers</h2>
 
 Students may need adult help with:
 - installing software
@@ -207,23 +215,39 @@ A good sign-off means the student can also explain:
 
 ---
 
-## Bonus Track overview
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">Bonus Track overview</h2>
 
-### Data Track
+<div style="background: #f5f3ff; border-left: 4px solid #7c3aed; border-radius: 0 6px 6px 0; padding: 0.75em 1em; margin: 0.5em 0;">
+
+### [Data Track](data-track.md)
 Learn how tables, rows, columns, and queries work. Solve a mystery with SQL and build your own small database.
 
-### Robot Track
+</div>
+
+<div style="background: #f0fdf4; border-left: 4px solid #16a34a; border-radius: 0 6px 6px 0; padding: 0.75em 1em; margin: 0.5em 0;">
+
+### [Robot Track](robot-track.md)
 Use Python to make hardware do things in the real world. Build projects with LEDs, buttons, buzzers, and sensors.
 
-### Web Track
+</div>
+
+<div style="background: #eff6ff; border-left: 4px solid #2563eb; border-radius: 0 6px 6px 0; padding: 0.75em 1em; margin: 0.5em 0;">
+
+### [Web Track](web-track.md)
 Start with HTML, CSS, and JavaScript. Later, move into bigger web projects and publishing your work online.
 
-### Gaming Track
+</div>
+
+<div style="background: #fff1f2; border-left: 4px solid #dc2626; border-radius: 0 6px 6px 0; padding: 0.75em 1em; margin: 0.5em 0;">
+
+### [Gaming Track](gaming-track.md)
 Build small games in Godot. Learn movement, rules, collisions, variables, and game logic.
+
+</div>
 
 ---
 
-## What happens next?
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">What happens next?</h2>
 
 After reading this page, open one of the track guides and begin with the first level.
 
@@ -236,7 +260,7 @@ That is only a suggestion. The best track is the one you will actually keep work
 
 ---
 
-## Future upgrades
+<h2 style="color: #b45309; border-bottom: 2px solid #fcd34d; padding-bottom: 0.25em;">Future upgrades</h2>
 
 This system will probably grow over time.
 

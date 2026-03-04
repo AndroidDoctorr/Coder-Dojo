@@ -1,31 +1,64 @@
+<div style="text-align: center; margin-bottom: 1em;">
+
 ![QR Code](assets/qr.png)
 
-# Coder Dojo
+</div>
 
-**Coding Resources** — This is a living document, I will update it periodically with new links and whatnot.
+<h1 style="color: #4338ca; text-align: center;">Coder Dojo</h1>
 
-## Instructor
+<p style="text-align: center; color: #6b7280; font-style: italic;">Coding Resources — This is a living document, updated periodically with new links and whatnot.</p>
+
+---
+
+<h2 style="color: #4338ca; border-bottom: 2px solid #a5b4fc; padding-bottom: 0.25em;">Instructor</h2>
 
 Andrew Torr, Software Developer - NineStar Connect
 
-## Meeting Info
+<h2 style="color: #4338ca; border-bottom: 2px solid #a5b4fc; padding-bottom: 0.25em;">Meeting Info</h2>
 
 Wednesdays 2:15–4:15
 
-## Bonus Tracks
+---
+
+<h2 style="color: #4338ca; border-bottom: 2px solid #a5b4fc; padding-bottom: 0.25em;">Bonus Tracks</h2>
 
 If you want to continue learning to code on your own (or with your parents' help, or a mentor, or your favorite LLM), you can pick one of these "bonus tracks" to follow:
 
-- [**Games**](./gaming-track.md) — Learn how to make and publish games using Godot
-- [**Data**](./data-track.md) — Learn how to manage databases using SQL
-- [**Robot**](./robot-track.md) — Learn how to control machines with code
-- [**Web**](./web-track.md) — Learn how to publish websites to the Web
+<div style="background: #dc2626; color: white; border-radius: 8px; padding: 0.75em 1em; margin: 0.5em 0;">
 
-But start here: [**Bonus Track Guide**](./bonus-tracks.md)
+**[🎮 Gaming Track](./gaming-track.md)** — Learn how to make and publish games using Godot
 
-If you complete any of these tracks, you will earn an extra Challenge Coin on top of the one you get for completing the Dojo. If you collect all four coins, you'll get an extra Gold Challenge Coin!
+</div>
 
-## Rough Schedule
+<div style="background: #7c3aed; color: white; border-radius: 8px; padding: 0.75em 1em; margin: 0.5em 0;">
+
+**[📊 Data Track](./data-track.md)** — Learn how to manage databases using SQL
+
+</div>
+
+<div style="background: #16a34a; color: white; border-radius: 8px; padding: 0.75em 1em; margin: 0.5em 0;">
+
+**[🤖 Robot Track](./robot-track.md)** — Learn how to control machines with code
+
+</div>
+
+<div style="background: #2563eb; color: white; border-radius: 8px; padding: 0.75em 1em; margin: 0.5em 0;">
+
+**[🌐 Web Track](./web-track.md)** — Learn how to publish websites to the Web
+
+</div>
+
+Not sure where to start? Read the **[Bonus Track Guide](./bonus-tracks.md)** first.
+
+<div style="background: #fffbeb; border: 1px solid #fcd34d; border-radius: 6px; padding: 0.75em 1em; margin-top: 1em;">
+
+🪙 Complete any track to earn a **Challenge Coin**. Collect all four and you'll earn an extra **Gold Challenge Coin**!
+
+</div>
+
+---
+
+<h2 style="color: #4338ca; border-bottom: 2px solid #a5b4fc; padding-bottom: 0.25em;">Rough Schedule</h2>
 
 | Week | Topic |
 |------|-------|
@@ -36,7 +69,9 @@ If you complete any of these tracks, you will earn an extra Challenge Coin on to
 | Week 5 | Start project |
 | Week 6 | Finish & demo projects |
 
-## Links to Stuff
+---
+
+<h2 style="color: #4338ca; border-bottom: 2px solid #a5b4fc; padding-bottom: 0.25em;">Links to Stuff</h2>
 
 ### Best Beginner Coding Websites
 
