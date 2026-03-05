@@ -1,0 +1,140 @@
+:root {
+    /* Change these to customize the whole page */
+    --bg: #f6f7fb;
+    --text: #1f2937;
+    --muted: #4b5563;
+    --card: #ffffff;
+    --border: #dbe3f0;
+
+    --accent1: #7c3aed;
+    --accent2: #22c55e;
+
+    --radius: 16px;
+    --shadow: 0 10px 24px rgba(0, 0, 0, 0.10);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, Arial, sans-serif;
+    line-height: 1.5;
+}
+
+/* Try changing the colors in this gradient */
+.header {
+    background: linear-gradient(20deg, red,orange,yellow,green,blue,purple);
+    color: white;
+    padding: 28px 0;
+}
+
+.container {
+    width: min(900px, 92%);
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 0;
+    letter-spacing: 0.5px;
+}
+
+.subtitle {
+    margin: 8px 0 0;
+    opacity: 0.95;
+}
+
+main {
+    padding: 18px 0 34px;
+}
+
+.button-thing {
+    background-color: #88ffdd;
+    color: black;
+    padding: 4px;
+}
+
+.redborder {
+    border: thick solid red !important;
+}
+
+.panel {
+    background: #ff0000;
+    border: 6px solid black;
+    border-radius: var(--radius);
+    padding: 160px;
+    margin: 16px 0;
+}
+
+.panel h2 {
+    margin: 0 0 8px;
+}
+
+.steps,
+.ideas {
+    margin: 10px 0 0;
+    padding-left: 22px;
+    color: var(--muted);
+}
+
+.tip {
+    margin: 12px 0 0;
+    color: var(--muted);
+}
+
+/* Cards */
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin: 16px 0;
+}
+
+.card {
+    background: var(--card);
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px;
+    box-shadow: var(--shadow);
+    text-align: left;
+}
+
+.card h2 {
+    margin: 0 0 8px;
+    font-size: 18px;
+}
+
+.card p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 16px;
+}
+
+/* Hover = what happens when your mouse is over it */
+.card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent1);
+}
+
+.photo {
+    width: 100%;
+    max-width: 420px;
+    display: block;
+    margin: 14px auto 0;
+    border-radius: var(--radius);
+    border: 2px solid var(--border);
+}
+
+.footer {
+    padding: 18px 0 28px;
+    color: var(--muted);
+}
+
+.name {
+    font-weight: 700;
+    color: var(--text);
+}
