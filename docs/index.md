@@ -1,8 +1,6 @@
 <div style="text-align: center; margin-bottom: 1em;">
-<img src="assets/qr.png" alt="QR Code" width=200 />
+<img src="assets/qr.png" alt="QR Code" width=100 />
 </div>
-
-<h1 style="color: #4338ca; text-align: center;">Coder Dojo</h1>
 
 <h2 style="color:rgb(93, 29, 72); text-align: center;">https://androiddoctorr.github.io/Coder-Dojo</h2>
 
