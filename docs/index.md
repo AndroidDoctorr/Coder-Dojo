@@ -4,7 +4,7 @@
 
 <h1 style="color: #4338ca; text-align: center;">Coder Dojo</h1>
 
-<h2>https://androiddoctorr.github.io/Coder-Dojo</h2>
+<h2 style="color:rgb(93, 29, 72); text-align: center;"https://androiddoctorr.github.io/Coder-Dojo</h2>
 
 <p style="text-align: center; color: #6b7280; font-style: italic;">Coding Resources — This is a living document, updated periodically with new links and whatnot.</p>
 
