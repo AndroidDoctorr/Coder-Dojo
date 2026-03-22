@@ -1,0 +1,141 @@
+export default {
+  intro:
+    'This track is about learning how to build a real video game. You will use Godot to make small playable games step by step, learning movement, collisions, rules, scoring, and game logic along the way.',
+  goodFor:
+    'If you like games, game ideas, animation, characters, or figuring out how game rules work, this track is for you.',
+  whatYouWillDo: [
+    'Learn the basic parts of a game project',
+    'Make things move on the screen',
+    'React to keyboard input',
+    'Use collisions, timers, and variables',
+    'Build small playable projects',
+    'Finish a game someone else can actually play',
+    'Show your work to a teacher or mentor',
+  ],
+  context: {
+    title: 'Why Godot?',
+    body: "Godot is a free, beginner-friendly game engine that works well for small 2D games and teaches real game development ideas. The goal isn't just to click around until something moves — it's to understand how the game is put together.",
+    points: [
+      'It is free and open source',
+      'It is beginner-friendly',
+      'It works great for 2D games',
+      'It teaches real game dev concepts',
+    ],
+  },
+  levels: {
+    bronze: {
+      goal: 'Make a simple playable scene where the player can control something on the screen.',
+      learn: [
+        'What a scene is',
+        'What a node is',
+        'How keyboard input works',
+        'How a sprite or object moves',
+        'How to run and test a game',
+      ],
+      practice: [
+        'Create a new Godot project',
+        'Add a player object or sprite',
+        'Move the player with the keyboard',
+        'Add a background or walls',
+        'Save your scene and run the game',
+      ],
+      checkpoints: [
+        'I created a Godot project.',
+        'I made an object move with keyboard input.',
+        'I can explain what the player object is.',
+        'I saved my project in a clear folder.',
+        'I tested the game and fixed at least one problem.',
+        'I can show a teacher or mentor how to run it.',
+      ],
+      miniProjects: [
+        'Move a character around a room',
+        'Move a spaceship around the screen',
+        'Make a simple maze with walls',
+        'Build a scene where a character can walk around and explore',
+      ],
+    },
+    silver: {
+      goal: 'Turn your project into an actual game with rules, hazards, or goals.',
+      learn: [
+        'What a collision is and how to detect it',
+        'How variables can store score, health, or time',
+        'How to reset or restart a game',
+        'How to make the player win or lose',
+      ],
+      practice: [
+        'Add something the player should avoid or collect',
+        'Add a score, timer, or health value',
+        'Make something happen when the player wins or loses',
+        'Restart the game after failure or success',
+      ],
+      checkpoints: [
+        'I added a rule or goal to my game.',
+        'I used collisions or overlap to detect events.',
+        'I used a variable such as score, health, or time.',
+        'My game can be won, lost, or restarted.',
+        'I tested the game more than once and fixed problems.',
+        'I can explain what at least one important script does.',
+      ],
+      miniProjects: [
+        'Dodge falling objects',
+        'Collect coins before time runs out',
+        'Survive a simple enemy or hazard',
+        'Escape a maze',
+        'Hit the right targets before time runs out',
+      ],
+    },
+    gold: {
+      goal: 'Build a stronger game that feels complete enough for another person to play and understand on their own.',
+      learn: [
+        'How to add polish: sound, a title screen, or a restart screen',
+        'How to organize scenes and scripts clearly',
+        'How to make the game feel finished, not just functional',
+      ],
+      practice: [
+        'Add sound effects or background music',
+        'Add a title screen or game-over screen',
+        'Improve art, layout, or player feedback',
+        'Organize your project files clearly',
+      ],
+      checkpoints: [
+        'I built a game with a clear goal.',
+        'My game has a win condition, lose condition, or both.',
+        'My game uses at least one script I can explain.',
+        'My game works well enough for another person to test without my help.',
+        'I fixed bugs and improved the project after testing.',
+        'I saved and organized my project files.',
+        'I showed the game to a teacher or mentor.',
+      ],
+      miniProjects: [
+        'A dodge game',
+        'A maze game',
+        'A platformer level or two',
+        'A top-down collect-and-escape game',
+        'A simple shooter or puzzle game',
+        'Your own original game idea',
+      ],
+    },
+  },
+  resources: [
+    {
+      label: 'Godot Docs — Getting Started',
+      url: 'https://docs.godotengine.org/en/stable/getting_started/introduction/index.html',
+    },
+    {
+      label: 'Godot Docs — Your First 2D Game',
+      url: 'https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html',
+    },
+    {
+      label: 'Godot Docs — Step by Step',
+      url: 'https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html',
+    },
+    {
+      label: 'GDQuest Free Godot Tutorials',
+      url: 'https://www.gdquest.com/tutorial/godot/',
+    },
+    {
+      label: 'KidsCanCode Godot Recipes',
+      url: 'https://kidscancode.org/godot_recipes/4.x/',
+    },
+  ],
+}

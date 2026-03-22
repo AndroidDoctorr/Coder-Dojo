@@ -1,0 +1,28 @@
+@use '../../styles/variables' as *;
+
+.section {
+  background: white;
+  border-radius: 12px;
+  padding: 1.75rem;
+  box-shadow: 0 2px 12px rgba(2, 47, 108, 0.08);
+}
+
+.pageTitle {
+  color: $brand-navy;
+}
+
+.sectionTitle {
+  color: $brand-navy;
+  border-left: 4px solid $brand-gold;
+  padding-left: 0.6em;
+}
+
+.levelCard {
+  border-radius: 10px;
+  padding: 1.25rem;
+  transition: transform 0.15s, box-shadow 0.15s;
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+}

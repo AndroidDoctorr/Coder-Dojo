@@ -1,0 +1,26 @@
+@use 'variables' as *;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #eef3f9;
+}
+
+// Give AppShell.Main a transparent background so the body color shows through
+.mantine-AppShell-main {
+  background: transparent;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+}
